@@ -1,5 +1,6 @@
 # desafiomodal
 Ps: o arquivo dados.txt é referente ao exercício 2. Os dados são fictícios.
+
 Desafio prático - Modal Gr
 
 1) A ModalGR possui um cofre eletrônico que precisa estar protegido por 3 senhas, sendo
